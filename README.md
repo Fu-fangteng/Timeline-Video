@@ -4,7 +4,7 @@
 The Timeline-Video project aims to create videos from a timeline perspective. This project utilizes several time-lapse videos as source material and generates final images by calculating the average color of pixels in each frame.
 
 ## How to Use
-This project includes two methods for generating images: row by row and column by column.
+You cna use the code in your own IDE, it is very short. Remember to change the name in the code into your own video's name. Ensure the address is correct and it is in the mp4 format. This project includes two methods for generating images: row by row and column by column.
 
 ### Generate Row by Row
 ![Row by Row Generation](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d4391fb5-19e6-4a6b-9e1a-f88e7a6375aa)
