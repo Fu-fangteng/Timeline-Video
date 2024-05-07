@@ -16,13 +16,27 @@ This project includes two methods for generating images: row by row and column b
 Here are some interesting images generated using this project:
 
 ![Image Sample 1](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/6971ff2e-f647-460a-944e-d4f485dc33e7)
+<p align="center">Sample image 1.</p>
+
+
 
 ![Image Sample 2](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/43957111-e396-4b49-ac9d-891e4471d316)
+<p align="center">Sample image 2.</p>
+
+
 
 ![Image Sample 3](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/82e5e7dc-ca82-49c3-8eb8-eaac77fad5a4)
+<p align="center">Sample image 3.</p>
+
+
 
 ![Image Sample 4](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/22cc9202-36bd-4224-85c3-b54aaf0c8080)
+<p align="center">Sample image 4.</p>
 
+
+
+![Image Sample 5](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/2bcb5d24-4f54-4164-8e21-7edc18712ac0)
+<p align="center">Sample image 5.</p>
 
 
 
@@ -36,11 +50,5 @@ For any issues or questions, please contact me through [GitHub Issues](https://g
 
 
 
-            
-
-
-
-
-<img width="980" alt="410f0cf0e5c71936c9030993812ef7c" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/2bcb5d24-4f54-4164-8e21-7edc18712ac0">
 
 
