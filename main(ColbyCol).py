@@ -28,7 +28,7 @@ def calculate_average_from_accumulator(accumulator):
     averages = accumulator[..., :3] / count[..., np.newaxis]
     return averages
 
-cap = cv2.VideoCapture('SeaDaytoNight.mp4')
+cap = cv2.VideoCapture('Your_Own_Video.mp4')
 if not cap.isOpened():
     print("Error opening video file")
     exit(0)
