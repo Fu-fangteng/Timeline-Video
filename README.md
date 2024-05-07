@@ -15,6 +15,8 @@ You cna use the code in your own IDE, it is very short. Remember to change the n
 ### Featured Images
 Here are some interesting images generated using this project:
 
+![image](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/35fccf06-c386-4258-af8a-705491cfa82f)
+
 ![Image Sample 1](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/6971ff2e-f647-460a-944e-d4f485dc33e7)
 <p align="center">Sample image 1.</p>
 
