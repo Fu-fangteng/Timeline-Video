@@ -7,10 +7,10 @@ The Timeline-Video project aims to create videos from a timeline perspective. Th
 This project includes two methods for generating images: row by row and column by column.
 
 ### Generate Row by Row
-![Row by Row Generation](![image](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d4391fb5-19e6-4a6b-9e1a-f88e7a6375aa))
+![Row by Row Generation]([![image](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d4391fb5-19e6-4a6b-9e1a-f88e7a6375aa](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d4391fb5-19e6-4a6b-9e1a-f88e7a6375aa)))
 
 ### Generate Column by Column
-![Column by Column Generation](<img width="862" alt="1de4bb3f04f9c9c1a92411136cbb558" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d2e1be56-7c1d-4823-b49c-d4a91dc4e659">)
+![Column by Column Generation](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d2e1be56-7c1d-4823-b49c-d4a91dc4e659)
 
 ### Featured Images
 Here are some interesting images generated using this project:
