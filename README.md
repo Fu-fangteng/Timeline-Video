@@ -1,18 +1,42 @@
 # Timeline-Video
-This project is trying to create a video in timeline perspective.
-I used several time lapse video as original video and using the average color of the pixel from every frame to produce a final images. 
+
+## Project Overview
+The Timeline-Video project aims to create videos from a timeline perspective. This project utilizes several time-lapse videos as source material and generates final images by calculating the average color of pixels in each frame.
+
+## How to Use
+This project includes two methods for generating images: row by row and column by column.
+
+### Generate Row by Row
+![Row by Row Generation](![image](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d4391fb5-19e6-4a6b-9e1a-f88e7a6375aa))
+
+### Generate Column by Column
+![Column by Column Generation](<img width="862" alt="1de4bb3f04f9c9c1a92411136cbb558" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d2e1be56-7c1d-4823-b49c-d4a91dc4e659">)
+
+### Featured Images
+Here are some interesting images generated using this project:
+
+![Image Sample 1](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/7333661b-6052-4b8e-b90a-4833c5dbc16d)
+
+![Image Sample 2](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/43957111-e396-4b49-ac9d-891e4471d316)
+
+![Image Sample 3](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/82e5e7dc-ca82-49c3-8eb8-eaac77fad5a4)
+
+More images can be found in the project repository.
 
 
-                                                               Generate row by row:
-                                                               
-<img width="541" alt="66acf71bc8ea011343f1b4cf891645c" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/f3b35f9f-7603-44a0-9361-62b36301f15d">
 
-                                                              Generate col by col:
-                                                              
-<img width="862" alt="1de4bb3f04f9c9c1a92411136cbb558" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/d2e1be56-7c1d-4823-b49c-d4a91dc4e659">
+## Contributing
+We welcome contributions in any form! If you have ideas for improvements or want to enhance existing features, please refer to our contribution guidelines.
+
+## Contact
+For any issues or questions, please contact me through [GitHub Issues](https://github.com/Fu-fangteng/Timeline-Video/issues).
 
 
-Here are some interesting images I generated:
+
+
+
+            
+
 ![image](https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/7333661b-6052-4b8e-b90a-4833c5dbc16d)
 
 <img width="406" alt="9973b04618ba14a5c5feb6b68b798d6" src="https://github.com/Fu-fangteng/Timeline-Video/assets/147288438/43957111-e396-4b49-ac9d-891e4471d316">
