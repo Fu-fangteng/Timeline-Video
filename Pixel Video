@@ -1,0 +1,38 @@
+import cv2
+import numpy as np
+
+def pixelate_half_frame(frame, gridSize):
+
+    height, width, channels = frame.shape
+    output = np.copy(frame)
+    for y in range(0, height, gridSize):
+        for x in range(0, width , gridSize):
+            rect = frame[y:y+gridSize, x:x+gridSize]
+            (b, g, r) = cv2.mean(rect)[:3]
+            cv2.rectangle(output, (x, y), (x + gridSize, y + gridSize), (b, g, r), -1)
+    return output
+
+
+cap = cv2.VideoCapture('Your_Own_Video.mp4')
+
+if not cap.isOpened():
+    print("Error opening video file")
+else:
+    while True:
+        ret, frame = cap.read()
+        if ret:
+            gridSize = 30
+            pixelated_frame = pixelate_half_frame(frame, gridSize)
+            frame_resized = cv2.resize(frame, (640, 480))
+            pixelated_frame_resized = cv2.resize(pixelated_frame, (640, 480))
+            cv2.imshow('Original Video', frame_resized)
+            cv2.imshow('Pixelated Video', pixelated_frame_resized)
+            cv2.moveWindow('Original Video', 50, 100)
+            cv2.moveWindow('Pixelated Video', 750, 100)
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                break
+        else:
+            break
+
+cap.release()
+cv2.destroyAllWindows()
